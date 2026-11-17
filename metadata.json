@@ -1,0 +1,6 @@
+{
+  "name": "Crown Crust Pizza",
+  "description": "Artisanal wood-fired and stuffed Crown Crust pizzeria in Hassan Abdal, Pakistan. Crafted to perfection with 48-hour fermented dough and signature melted cheese blends.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
